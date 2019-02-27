@@ -1,0 +1,19 @@
+{
+  "name": "xtal-cleavage",
+  "version": "0.0.0",
+  "description": "Web component wrapper around cleave.js",
+  "main": "xtal-cleavage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/xtal-cleavage.git"
+  },
+  "author": "anderson.bruce.b@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahrus/xtal-cleavage/issues"
+  },
+  "homepage": "https://github.com/bahrus/xtal-cleavage#readme"
+}
