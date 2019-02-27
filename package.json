@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bahrus/xtal-cleavage/issues"
   },
-  "homepage": "https://github.com/bahrus/xtal-cleavage#readme"
+  "homepage": "https://github.com/bahrus/xtal-cleavage#readme",
+  "dependencies": {
+    "cleave.js": "^1.4.7"
+  }
 }
